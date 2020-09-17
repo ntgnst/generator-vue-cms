@@ -13,7 +13,8 @@
   ],
   "main": "generators/index.js",
   "keywords": [
-    "",
+    "cms-generator",
+    "vue-generator",
     "yeoman-generator"
   ],
   "devDependencies": {
