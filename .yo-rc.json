@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Batuhan Yahşi",
+      "authorEmail": "yahsibatuhan@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
